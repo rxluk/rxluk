@@ -46,6 +46,7 @@ Sinta-se à vontade para puxar assunto sobre qualquer um desses tópicos ou qual
 ## Meus Materiais 📕
 * [Estrutura de Dados](https://educaplanner.notion.site/Estrutura-de-Dados-f09214e848194b2d80f186023f82f410?pvs=4)<br>
 * [Banco de Dados](https://educaplanner.notion.site/Banco-de-Dados-2-96b2138d6cc44c099b86f4ed56279f3b?pvs=4)<br>
-* [Versionamento de Código](https://educaplanner.notion.site/Versionamento-de-C-digo-Git-Github-0769cb0f15a44f2da996be3c300d8661?pvs=4)
+* [Versionamento de Código](https://educaplanner.notion.site/Versionamento-de-C-digo-Git-Github-0769cb0f15a44f2da996be3c300d8661?pvs=4)<br>
+* [Collections Java](https://educaplanner.notion.site/Collections-Java-4af7bd4876dc45619678f58b34c05fe7?pvs=4)
 
 Observação: Material atualizado de acordo com andamento das disciplinas.
