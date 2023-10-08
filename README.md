@@ -49,5 +49,6 @@ Sinta-se à vontade para puxar assunto sobre qualquer um desses tópicos ou qual
 * [Versionamento de Código](https://educaplanner.notion.site/Versionamento-de-C-digo-Git-Github-0769cb0f15a44f2da996be3c300d8661?pvs=4)<br>
 * [Collections Java](https://educaplanner.notion.site/Collections-Java-4af7bd4876dc45619678f58b34c05fe7?pvs=4)
 * [Stream API](https://educaplanner.notion.site/Stream-API-e6c9c0ecd51e4235ad8411305dfaf0e2?pvs=4)
+* [Maven - Gerenciamento de Dependências e Builds](https://educaplanner.notion.site/Maven-c5ee0815a67f453cba4b320fe629ac2f?pvs=4).
 
 Observação: Material atualizado de acordo com o andamento das disciplinas.
