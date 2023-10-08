@@ -50,5 +50,6 @@ Sinta-se à vontade para puxar assunto sobre qualquer um desses tópicos ou qual
 * [Collections Java](https://educaplanner.notion.site/Collections-Java-4af7bd4876dc45619678f58b34c05fe7?pvs=4)<br>
 * [Stream API](https://educaplanner.notion.site/Stream-API-e6c9c0ecd51e4235ad8411305dfaf0e2?pvs=4)<br>
 * [Maven - Gerenciamento de Dependências e Builds](https://educaplanner.notion.site/Maven-c5ee0815a67f453cba4b320fe629ac2f?pvs=4)<br>
+* [JUnit - Testes Unitários](https://educaplanner.notion.site/Testes-Unit-rios-com-JUnit-7ddc89b86a964d8da488dfdd19069919?pvs=4)<br>
 
 Observação: Material atualizado de acordo com o andamento das disciplinas.
