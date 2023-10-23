@@ -53,4 +53,4 @@ Sinta-se à vontade para puxar assunto sobre qualquer um desses tópicos ou qual
 * [JUnit - Testes Unitários](https://educaplanner.notion.site/Testes-Unit-rios-com-JUnit-7ddc89b86a964d8da488dfdd19069919?pvs=4)<br>
 * [Contextualizando o Desenvolvimento Web com Spring Boot 3 e Kotlin](https://educaplanner.notion.site/Contextualizando-o-Desenvolvimento-Web-com-Spring-Boot-3-e-Kotlin-364b3b3ba6e9420e8f16e396101fac5f?pvs=4)<br>
 
-Observação: Material atualizado de acordo com o andamento das disciplinas.
+Observação: Alguns masteriais podem estar desatualizados.
