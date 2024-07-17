@@ -3,15 +3,11 @@
 ## Quem sou eu?
 ------
 
-Olá, me chamo Lucas, um estudante de Engenharia de Software na Universidade Tecnológica Federal do Paraná (UTFPR).
+Olá, meu nome é Lucas e sou estudante de Engenharia de Software na Universidade Tecnológica Federal do Paraná (UTFPR).
 
-Sempre fui apaixonado pela tecnologia, e atualmente, meu coração bate mais forte por Java.
+Sou apaixonado por tecnologia e, atualmente, meu foco principal está na linguagem Java. Nos momentos de ociosidade, dedico-me ao estudo e à realização de cursos para expandir meus conhecimentos.
 
-Em meu tempo livre ou sempre que encontro um momento de ociosidade, gosto de dedicar meu tempo ao estudo e à inclusão de cursos para enriquecer meu conhecimento. 
-
-Nos momentos de lazer, desfruto de jogar alguns games, assistir a filmes e animes, além de apreciar passeios relaxantes e explorar novos lugares por meio de viagens.
-
-Sinta-se à vontade para puxar assunto sobre qualquer um desses tópicos ou qualquer outro que você tenha em mente. Vamos conversar!
+Sinta-se à vontade para conversar sobre qualquer um desses tópicos ou outro de seu interesse. Vamos dialogar!
 
 ------
 
