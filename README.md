@@ -3,11 +3,11 @@
 ## Quem sou eu?
 ------
 
-Olá, meu nome é Lucas e sou estudante de Engenharia de Software na Universidade Tecnológica Federal do Paraná (UTFPR).
+Hello, my name is Lucas and I am a Software Engineering student at the Universidade Tecnológica Federal do Paraná (UTFPR).
 
-Sou apaixonado por tecnologia e, atualmente, meu foco principal está na linguagem Java. Nos momentos de ociosidade, dedico-me ao estudo e à realização de cursos para expandir meus conhecimentos.
+I am passionate about technology and currently, my primary focus is on the Java programming language. During my free time, I dedicate myself to studying and taking courses to expand my knowledge.
 
-Sinta-se à vontade para conversar sobre qualquer um desses tópicos ou outro de seu interesse. Vamos dialogar!
+Feel free to discuss any of these topics or others of your interest. Let's have a conversation!
 
 ------
 
