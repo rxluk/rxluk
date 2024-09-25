@@ -31,12 +31,6 @@ Feel free to discuss any of these topics or others of your interest. Let's have 
 ## GitHub Status 📊
 ![Seus estatísticas do Github](https://github-readme-stats.vercel.app/api?username=rxluk&show_icons=true&theme=radical)
 
-
-## Meus projetos 💼
-[![Repo Projeto](https://github-readme-stats.vercel.app/api/pin/?username=rxluk&repo=Gerenciamento-de-Transporte-de-Entrega&bg_color=141321&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fb418c&text_color=a0f1eb)](https://github.com/rxluk/Gerenciamento-de-Transporte-de-Entrega.git)
-[![Repo Projeto](https://github-readme-stats.vercel.app/api/pin/?username=rxluk&repo=Gestao-Hotel&bg_color=141321&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fb418c&text_color=a0f1eb)](https://github.com/rxluk/Gestao-Hotel.git)
-[![Repo Projeto](https://github-readme-stats.vercel.app/api/pin/?username=rxluk&repo=Jogo-da-Velha&bg_color=141321&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fb418c&text_color=a0f1eb)](https://github.com/rxluk/Jogo-da-Velha.git)
-
 --------
 
 ## Meus Materiais 📕
