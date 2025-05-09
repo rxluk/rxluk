@@ -5,7 +5,7 @@
 
 Sou Lucas Gabriel Costa, estudante de Engenharia de Software na Universidade Tecnológica Federal do Paraná (UTFPR), atualmente no 5º período, com formação prevista para 2026.
 
-Venho construindo minha carreira por meio de uma combinação entre formação acadêmica, experiência prática (mais de 8 meses atuando entre estágio, CLT e projetos freelancer) e muito aprendizado autodidata. Estou em constante evolução e pronto para contribuir com projetos e empresas, sempre buscando crescimento profissional e pessoal.
+Venho construindo minha carreira por meio de uma combinação entre formação acadêmica, experiência prática (cerca de 8 meses atuando entre estágio, CLT e projetos freelancer) e muito aprendizado autodidata. Estou em constante evolução e pronto para contribuir com projetos e empresas, sempre buscando crescimento profissional e pessoal.
 
 Sinta-se à vontade para trocar ideias sobre tecnologia ou qualquer outro tema de interesse. Vamos conversar!
 
