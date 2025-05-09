@@ -1,15 +1,7 @@
 # Lucas Gabriel Costa
 
-## About Me / Sobre mim
+## Sobre mim / About Me
 ------
-
-I'm Lucas Gabriel Costa, a Software Engineering student at the Federal University of Technology – Paraná (UTFPR), currently in my 5th semester, expecting to graduate in 2026.
-
-I'm building my career through a combination of academic background, hands-on experience (over 8 months across internships, formal employment, and freelance projects), and continuous self-learning. I'm always looking to grow and ready to contribute to projects or companies in a meaningful way.
-
-Feel free to reach out to talk about tech or anything else you find interesting. Let's connect!
-
----
 
 Sou Lucas Gabriel Costa, estudante de Engenharia de Software na Universidade Tecnológica Federal do Paraná (UTFPR), atualmente no 5º período, com formação prevista para 2026.
 
@@ -17,9 +9,17 @@ Venho construindo minha carreira por meio de uma combinação entre formação a
 
 Sinta-se à vontade para trocar ideias sobre tecnologia ou qualquer outro tema de interesse. Vamos conversar!
 
+---
+
+I'm Lucas Gabriel Costa, a Software Engineering student at the Federal University of Technology – Paraná (UTFPR), currently in my 5th semester, expecting to graduate in 2026.
+
+I'm building my career through a combination of academic background, hands-on experience (over 8 months across internships, formal employment, and freelance projects), and continuous self-learning. I'm always looking to grow and ready to contribute to projects or companies in a meaningful way.
+
+Feel free to reach out to talk about tech or anything else you find interesting. Let's connect!
+
 ------
 
-## Connect with Me / Conecte-se Comigo 🌎
+## Conecte-se Comigo / Connect with Me 🌎
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lucg.exe/) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rxluk/)
@@ -30,7 +30,7 @@ Sinta-se à vontade para trocar ideias sobre tecnologia ou qualquer outro tema d
 ## Skills 🧙‍♂️
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-[Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -51,12 +51,12 @@ Sinta-se à vontade para trocar ideias sobre tecnologia ou qualquer outro tema d
 ![Insomnia](https://img.shields.io/badge/Insomnia-%23304030.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![JWT](https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/websocket-%23428AEB.svg?style=for-the-badge&logo=websocket&logoColor=white)
-![API](https://img.shields.io/badge/API-%23FF6C37.svg?style=for-the-badge&logo=api&logoColor=white)
+![API RESTFul](https://img.shields.io/badge/API-%23FF6C37.svg?style=for-the-badge&logo=api&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 --------
 
-## GitHub Stats / Estatísticas do GitHub 📊
+## GitHub Stats 📊
 
 ![Seus estatísticas do Github](https://github-readme-stats.vercel.app/api?username=rxluk&show_icons=true&theme=radical)
 
