@@ -58,6 +58,26 @@ Feel free to reach out to talk about tech or anything else you find interesting.
 
 --------
 
+## Certificados / Certifications 🎓
+
+[![Java COMPLETO POO + Projetos](https://img.shields.io/badge/Udemy-Java_COMPLETO_POO_+_Projetos-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-a6348770-6078-4de1-a5db-99ab23339219/)
+[![Santander Bootcamp - Backend Java](https://img.shields.io/badge/DIO-Santander_Bootcamp_2023_Backend_Java-red?style=for-the-badge&logo=dio&logoColor=white)](https://hermes.dio.me/certificates/77287C36.pdf)
+[![Spring Framework e Java](https://img.shields.io/badge/DIO-Spring_Framework_e_Java-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://hermes.dio.me/certificates/FFB83560.pdf)
+[![Programação Orientada a Objetos](https://img.shields.io/badge/DIO-Programação_Orientada_a_Objetos-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://hermes.dio.me/certificates/BHMHAQTV.pdf)
+[![Desenvolvimento de APIs](https://img.shields.io/badge/DIO-Desenvolvimento_de_APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white)](https://hermes.dio.me/certificates/JS9ZEFKH.pdf)
+[![API REST com Spring Web e Swagger](https://img.shields.io/badge/DIO-API_REST_com_Spring_Web_e_Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://hermes.dio.me/certificates/ABA91F8F.pdf)
+[![Spring Security](https://img.shields.io/badge/DIO-Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://hermes.dio.me/certificates/383524AA.pdf)
+[![Integração com Banco de Dados](https://img.shields.io/badge/DIO-Integração_com_Banco_de_Dados-4479A1?style=for-the-badge&logo=database&logoColor=white)](https://hermes.dio.me/certificates/P93TMYOL.pdf)
+[![MongoDB e NoSQL](https://img.shields.io/badge/DIO-MongoDB_e_NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://hermes.dio.me/certificates/7LQNDJA8.pdf)
+[![Princípios de Agilidade](https://img.shields.io/badge/DIO-Princípios_de_Agilidade-0052CC?style=for-the-badge&logo=agile&logoColor=white)](https://hermes.dio.me/certificates/E4E263D7.pdf)
+[![Equipes Ágeis](https://img.shields.io/badge/DIO-Equipes_Ágeis-0052CC?style=for-the-badge&logo=agile&logoColor=white)](https://hermes.dio.me/certificates/8B63B77D.pdf)
+[![Padrões de Projetos com Java](https://img.shields.io/badge/DIO-Padrões_de_Projetos_com_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://hermes.dio.me/certificates/84D6A558.pdf)
+[![Testes Unitários com JUnit](https://img.shields.io/badge/DIO-Testes_Unitários_com_JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://hermes.dio.me/certificates/820C84D4.pdf)
+[![Estruturas de Dados em Java](https://img.shields.io/badge/DIO-Estruturas_de_Dados_em_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://hermes.dio.me/certificates/BBEBE1D2.pdf)
+[![Git e GitHub](https://img.shields.io/badge/DIO-Git_e_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)](https://hermes.dio.me/certificates/3BDA8BFE.pdf)
+
+--------
+
 ## Meu Portfólio / My Portfolio 💼
 🚀 Confira meus projetos e trabalhos completos no meu portfólio online: [lucasgabrielcosta.vercel.app](https://lucasgabrielcosta.vercel.app)  
 🚀 Check out my projects and full work on my online portfolio: [lucasgabrielcosta.vercel.app](https://lucasgabrielcosta.vercel.app)
