@@ -52,6 +52,8 @@ Feel free to reach out to talk about tech or anything else you find interesting.
 ![JWT](https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/websocket-%23428AEB.svg?style=for-the-badge&logo=websocket&logoColor=white)
 ![API RESTFul](https://img.shields.io/badge/API-%23FF6C37.svg?style=for-the-badge&logo=api&logoColor=white)
+![Java Mobile](https://img.shields.io/badge/java_mobile-%23000000.svg?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%23222B35.svg?style=for-the-badge&logo=flutter&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 --------
@@ -62,7 +64,7 @@ Feel free to reach out to talk about tech or anything else you find interesting.
 
 --------
 
-## GitHub Stats 📊
+## Estatísticas do GitHub / GitHub Stats 📊
 
 ![Seus estatísticas do Github](https://github-readme-stats.vercel.app/api?username=rxluk&show_icons=true&theme=radical)
 
