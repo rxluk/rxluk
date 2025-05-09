@@ -60,17 +60,26 @@ Feel free to reach out to talk about tech or anything else you find interesting.
 
 ## Certificados / Certifications 🎓
 
+### Certificações Principais / Main Certifications
 - [Java COMPLETO Programação Orientada a Objetos + Projetos / Complete Java OOP + Projects](https://www.udemy.com/certificate/UC-a6348770-6078-4de1-a5db-99ab23339219/) - Udemy (54.5h)
 - [Santander Bootcamp 2023 - Backend Java](https://hermes.dio.me/certificates/77287C36.pdf) - DIO (88h)
 - [Ganhando Produtividade com Spring Framework e Java / Boosting Productivity with Spring Framework and Java](https://hermes.dio.me/certificates/FFB83560.pdf) - DIO (18h)
 - [Programação Orientada a Objetos / Object-Oriented Programming](https://hermes.dio.me/certificates/BHMHAQTV.pdf) - DIO (26h)
+
+### Desenvolvimento Back-end / Back-end Development
 - [Desenvolvimento de APIs / API Development](https://hermes.dio.me/certificates/JS9ZEFKH.pdf) - DIO (13h)
 - [Criando uma API REST Documentada com Spring Web e Swagger / Creating a Documented REST API with Spring Web and Swagger](https://hermes.dio.me/certificates/ABA91F8F.pdf) - DIO (2h)
 - [Adicionando Segurança a uma API REST com Spring Security / Adding Security to a REST API with Spring Security](https://hermes.dio.me/certificates/383524AA.pdf) - DIO (2h)
+
+### Bancos de Dados / Databases
 - [Integração com Banco de Dados / Database Integration](https://hermes.dio.me/certificates/P93TMYOL.pdf) - DIO (15h)
 - [Introdução ao MongoDB e Bancos de Dados NoSQL / Introduction to MongoDB and NoSQL Databases](https://hermes.dio.me/certificates/7LQNDJA8.pdf) - DIO (3h)
+
+### Metodologias e Soft Skills / Methodologies and Soft Skills
 - [Princípios de Agilidade e Desenvolvimento Colaborativo / Principles of Agility and Collaborative Development](https://hermes.dio.me/certificates/E4E263D7.pdf) - DIO (9h)
 - [Trabalhando em Equipes Ágeis / Working in Agile Teams](https://hermes.dio.me/certificates/8B63B77D.pdf) - DIO (3h)
+
+### Fundamentos e Ferramentas de Desenvolvimento / Development Fundamentals and Tools
 - [Explorando Padrões de Projetos na Prática com Java / Exploring Design Patterns in Practice with Java](https://hermes.dio.me/certificates/84D6A558.pdf) - DIO (2h)
 - [Testes Unitários Com JUnit / Unit Testing With JUnit](https://hermes.dio.me/certificates/820C84D4.pdf) - DIO (2h)
 - [Estruturas de Dados em Java / Data Structures in Java](https://hermes.dio.me/certificates/BBEBE1D2.pdf) - DIO (7h)
