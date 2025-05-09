@@ -27,6 +27,10 @@ Feel free to reach out to talk about tech or anything else you find interesting.
 
 -------
 
+## Meu Portfólio / My Portfolio 💼
+Confira meus projetos e trabalhos completos no meu portfólio online: [lucasgabrielcosta.vercel.app](https://lucasgabrielcosta.vercel.app)  
+Check out my projects and full work on my online portfolio: [lucasgabrielcosta.vercel.app](https://lucasgabrielcosta.vercel.app)
+
 ## Skills 🧙‍♂️
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -55,9 +59,6 @@ Feel free to reach out to talk about tech or anything else you find interesting.
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 --------
-
-## Meu Portfólio 💼
-Confira meus projetos e trabalhos completos no meu portfólio online: [lucasgabrielcosta.vercel.app](https://lucasgabrielcosta.vercel.app)
 
 ## GitHub Stats 📊
 
