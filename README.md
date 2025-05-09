@@ -27,7 +27,7 @@ Feel free to reach out to talk about tech or anything else you find interesting.
 
 -------
 
-## Skills 🧙‍♂️
+## Habilidades / Skills 🧙‍♂️
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
