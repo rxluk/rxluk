@@ -68,6 +68,10 @@ Feel free to reach out to talk about tech or anything else you find interesting.
 
 --------
 
+## Linguagens Mais Usadas / Most Used Languages 🗣️
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rxluk&layout=compact&theme=radical)
+
 <!--
 ## Meus Materiais 📕 (comentado)
 
