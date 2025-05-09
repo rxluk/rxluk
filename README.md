@@ -56,6 +56,9 @@ Feel free to reach out to talk about tech or anything else you find interesting.
 
 --------
 
+## Meu Portfólio 💼
+Confira meus projetos e trabalhos completos no meu portfólio online: [lucasgabrielcosta.vercel.app](https://lucasgabrielcosta.vercel.app)
+
 ## GitHub Stats 📊
 
 ![Seus estatísticas do Github](https://github-readme-stats.vercel.app/api?username=rxluk&show_icons=true&theme=radical)
