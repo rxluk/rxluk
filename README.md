@@ -68,7 +68,7 @@ Feel free to reach out to talk about tech or anything else you find interesting.
 
 ### Desenvolvimento Back-end / Back-end Development
 - [Desenvolvimento de APIs / API Development](https://hermes.dio.me/certificates/JS9ZEFKH.pdf) - DIO (13h)
-- [Criando uma API REST Documentada com Spring Web e Swagger / Creating a Documented REST API with Spring Web and Swagger](https://hermes.dio.me/certificates/ABA91F8F.pdf) - DIO (2h)
+- [Criando API REST Documentada com Spring Web e Swagger / Creating a Documented REST API with Spring Web and Swagger](https://hermes.dio.me/certificates/ABA91F8F.pdf) - DIO (2h)
 - [Adicionando Segurança a uma API REST com Spring Security / Adding Security to a REST API with Spring Security](https://hermes.dio.me/certificates/383524AA.pdf) - DIO (2h)
 
 ### Bancos de Dados / Databases
