@@ -3,19 +3,37 @@
 ## Sobre mim / About Me
 ------
 
-Sou Lucas Gabriel Costa, estudante de Engenharia de Software na Universidade Tecnológica Federal do Paraná (UTFPR), atualmente no 5º período, com formação prevista para 2026.
+Sou estudante de Engenharia de Software na UTFPR, 5º período, com previsão de conclusão em dezembro de 2026. Durante a faculdade, passei por várias disciplinas que me deram uma base bem sólida, como estrutura de dados, programação orientada a objetos, desenvolvimento web e mobile, sistemas operacionais, bancos de dados, arquitetura MVC e microsserviços, redes, levantamento de requisitos, diagramas (como DER e de classes), gerência de configuração, manutenção e qualidade de software. Porém, foi na matéria de programação orientada a objetos, onde usamos Java, que descobri minha paixão pelo backend e desde então venho me dedicando bastante a essa área.
 
-Venho construindo minha carreira por meio de uma combinação entre formação acadêmica, experiência prática (cerca de 8 meses atuando entre estágio, CLT e projetos freelancer) e muito aprendizado autodidata. Estou em constante evolução e pronto para contribuir com projetos e empresas, sempre buscando crescimento profissional e pessoal.
+Tenho experiência prática construindo APIs REST com Spring Boot, usando Docker, JPA/Hibernate e trabalhando com bancos SQL e NoSQL. Também sei dos detalhes de banco de dados, como triggers, índices, diagramas entidade-relacionamento e consultas DDL, DML, DQL, DCL e TCL. Além disso, entendo de WebSocket para comunicação em tempo real e tenho conhecimentos sobre streaming de vídeo, o que é ótimo caso tenhamos aplicações que precisam de dados ao vivo.
+
+Além do backend, tenho conhecimentos em HTML, CSS, JavaScript e Angular, então consigo atuar como fullstack quando necessário. No mobile, utilizo Java para Android e também “quebro um galho” com Flutter, que uso para alguns projetos pessoais e para resolver minha vida no meu iOS.
+
+Atualmente, trabalho com PHP/Laravel, Java/Kotlin para Android e Linux, e utilizo de integrações, testes unitários, microsserviços, MVC, segurança em aplicações com middlewares, JWT, bcrypt e outras tecnologias relacionadas. Uso também ferramentas como Swagger e Postman para documentar e testar APIs no dia a dia. Tenho contato com AWS, principalmente EC2, e mantenho uma outra VPS própria para estudar, experimentar com servidores e fazer deploys.
+
+Além da programação, sou entusiasta de segurança da informação e estudo conceitos de cybersecurity sempre que posso. Fora da tecnologia, gosto de viajar, jogar uns games e experimentar comidas gostosas, coisas que me ajudam a manter o equilíbrio e a criatividade.
+
+Sou organizado, autodidata, curioso e me adapto rápido a novas situações. Estou procurando minha oportunidade como desenvolvedor Java backend para aplicar meus conhecimentos, contribuir com soluções práticas e crescer profissionalmente.
 
 Sinta-se à vontade para trocar ideias sobre tecnologia ou qualquer outro tema de interesse. Vamos conversar!
 
 ---
 
-I'm Lucas Gabriel Costa, a Software Engineering student at the Federal University of Technology – Paraná (UTFPR), currently in my 5th semester, expecting to graduate in 2026.
+I'm a Software Engineering student at UTFPR, currently in the 5th semester, expected to graduate in December 2026. Throughout college, I’ve gone through several subjects that gave me a solid foundation, such as data structures, object-oriented programming, web and mobile development, operating systems, databases, MVC and microservices architecture, networks, requirements gathering, diagrams (like ER and class diagrams), configuration management, maintenance, and software quality.
 
-I'm building my career through a combination of academic background, hands-on experience (over 8 months across internships, formal employment, and freelance projects), and continuous self-learning. I'm always looking to grow and ready to contribute to projects or companies in a meaningful way.
+But it was in the object-oriented programming class, where we used Java, that I discovered my passion for backend development — and since then, I've been diving deep into this area.
 
-Feel free to reach out to talk about tech or anything else you find interesting. Let's connect!
+I have hands-on experience building REST APIs with Spring Boot, using Docker, JPA/Hibernate, and working with both SQL and NoSQL databases. I'm also familiar with database details like triggers, indexes, entity-relationship diagrams, and DDL, DML, DQL, DCL, and TCL queries. Additionally, I understand WebSocket for real-time communication and have knowledge of video streaming, which is great when working on apps that need live data.
+
+Besides backend, I also have knowledge of HTML, CSS, JavaScript, and Angular — so I can step in as a full-stack developer when needed. On the mobile side, I use Java for Android and also tinker with Flutter, which I use for personal projects or to solve things on my iOS device.
+
+Currently, I work with PHP/Laravel, Java/Kotlin for Android, and Linux. I'm involved in integrations, unit testing, microservices, MVC, application security with middlewares, JWT, bcrypt, and other related technologies. I also use tools like Swagger and Postman to document and test APIs daily. I’ve had contact with AWS, especially EC2, and I maintain my own VPS for studying, experimenting with servers, and doing deployments.
+
+Outside of programming, I'm a cybersecurity enthusiast and study infosec concepts whenever I can. Beyond tech, I enjoy traveling, gaming, and trying new food — things that help me stay balanced and creative.
+
+I'm organized, self-taught, curious, and quick to adapt to new situations. I'm looking for an opportunity as a Java backend developer to apply my skills, contribute with practical solutions, and grow professionally.
+
+Feel free to reach out if you’d like to chat about tech or anything else. Let’s connect!
 
 ------
 
