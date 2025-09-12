@@ -106,8 +106,8 @@ Feel free to reach out if you’d like to chat about tech or anything else. Let�
 --------
 
 ## Meu Portfólio / My Portfolio 💼
-🚀 Confira meus projetos e trabalhos completos no meu portfólio online: [lucasgabrielcosta.vercel.app](https://lucasgabrielcosta.vercel.app)  
-🚀 Check out my projects and full work on my online portfolio: [lucasgabrielcosta.vercel.app](https://lucasgabrielcosta.vercel.app)
+🚀 Confira meus projetos e trabalhos completos no meu portfólio online: [lucasgabriel.dev](https://lucasgabriel.dev)
+🚀 Check out my projects and full work on my online portfolio: [lucasgabriel.dev](https://lucasgabriel.dev)
 
 --------
 
