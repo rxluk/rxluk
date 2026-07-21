@@ -96,15 +96,3 @@ I am curious, self-taught, and passionate about understanding how things work be
 🚀 Confira meus projetos e trabalhos completos:
 
 https://rxluk.github.io
-
----
-
-## GitHub Stats 📊
-
-![Seus estatísticas do Github](https://github-readme-stats.vercel.app/api?username=rxluk&show_icons=true&theme=radical)
-
---------
-
-## Most Used Languages 🗣️
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rxluk&layout=compact&theme=radical)
