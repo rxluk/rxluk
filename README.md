@@ -1,8 +1,8 @@
 # Lucas Gabriel Costa
 
-## Sobre mim / About Me
+## About Me
 
----
+<!---
 
 Sou estudante de Engenharia de Software na UTFPR, atualmente no 7º período, com previsão de conclusão em junho de 2027.
 
@@ -21,7 +21,7 @@ Tenho grande interesse por inteligência artificial e computação aplicada. Atu
 Também sou entusiasta da área maker, explorando eletrônica, ESP32, Raspberry Pi, sensores, automação e impressão 3D, unindo software e hardware para criar protótipos e experimentar novas ideias.
 
 Sou curioso, autodidata e gosto de entender como as coisas funcionam por trás dos sistemas. Busco constantemente aprender novas tecnologias e transformar conhecimento em projetos práticos.
-
+-->
 ---
 
 I'm a Software Engineering student at UTFPR, currently in my 7th semester, expected to graduate in June 2027.
@@ -44,7 +44,7 @@ I am curious, self-taught, and passionate about understanding how things work be
 
 ---
 
-## Conecte-se Comigo / Connect with Me 🌎
+## Connect with Me 🌎
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lucg.exe/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rxluk/)
@@ -52,7 +52,7 @@ I am curious, self-taught, and passionate about understanding how things work be
 
 ---
 
-## Habilidades / Skills 🧙‍♂️
+## Skills 🧙‍♂️
 
 ### Backend & Software Engineering
 
@@ -91,7 +91,7 @@ I am curious, self-taught, and passionate about understanding how things work be
 
 ---
 
-## Meu Portfólio / My Portfolio 💼
+## My Portfolio 💼
 
 🚀 Confira meus projetos e trabalhos completos:
 
